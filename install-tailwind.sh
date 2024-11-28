@@ -1,17 +1,5 @@
 #!/bin/bash
 
-# Required parameters:
-# @raycast.schemaVersion 1
-# @raycast.title Install Tailwind
-# @raycast.mode silent
-
-# Optional parameters:
-# @raycast.icon 🌀
-# @raycast.packageName Dev Setups
-
-# Documentation:
-# @raycast.author T.A.V
-
 npm install -D tailwindcss
 npx tailwindcss init
 
